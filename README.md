@@ -1,3 +1,3 @@
-#Disease Prediction System
-- Creating a predictive model for Heart's disease
-- Inintiating the deployment of the created ML models to a web application
+# Predictive ML model to analyze the patient's data to detect diseases and suggest recommendations for prevention
+- Deploying the created ML models to the web application
+- 
