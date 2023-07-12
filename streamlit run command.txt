@@ -1,1 +1,1 @@
-streamlit run "D:\Github\Hackfest'23\main\multiple disease pred.py"
+streamlit run "D:\Github\Hackfest_23\main\multiple disease pred.py"
